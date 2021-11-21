@@ -10,7 +10,7 @@ The QR code to scan can be generated at [this page](https://www.qrcode.es/es/gen
 
 ### Scan QR to open map or website
 
-![map_example gif](https://media0.giphy.com/media/fXhCIT6ze38BWH1i2s/giphy.gif?cid=790b76119f85935807ee697a4a390095627d750daf8cc7e9&rid=giphy.gif&ct=g)
+![map_example gif](https://media2.giphy.com/media/zQbYO4DWK3Ng33YIDw/giphy.gif?cid=790b7611f8e6440b4fc912da44e350e8427b5c1d874db642&rid=giphy.gif&ct=g)
 
 ![youtube_link_example gif](https://media0.giphy.com/media/f1e7IbLWMLSdlhQiCv/giphy.gif?cid=790b7611fad95b05bc56bd82d3b8539a52c53f46b0b50b1c&rid=giphy.gif&ct=g)
 
